@@ -1,0 +1,90 @@
+# Row format:
+# lilypond-note lilypond-clef lilypond-filename flashcard-content
+
+# C0
+a,,, bass a0-bass A0
+b,,, bass b0-bass B0
+
+# C1
+c,, bass c1-bass C1
+d,, bass d1-bass D1
+e,, bass e1-bass E1
+f,, bass f1-bass F1
+g,, bass g1-bass G1
+a,, bass a1-bass A1
+b,, bass b1-bass B1
+
+# C2
+c, bass c2-bass C2
+d, bass d2-bass D2
+e, bass e2-bass E2
+f, bass f2-bass F2
+g, bass g2-bass G2
+a, bass a2-bass A2
+b, bass b2-bass B2
+
+# C3
+c treble c3-treble C3 (treble)
+d treble d3-treble D3 (treble)
+e treble e3-treble E3 (treble)
+f treble f3-treble F3 (treble)
+g treble g3-treble G3 (treble)
+a treble a3-treble A3 (treble)
+b treble b3-treble B3 (treble)
+
+c bass c3-bass C3 (bass)
+d bass d3-bass D3 (bass)
+e bass e3-bass E3 (bass)
+f bass f3-bass F3 (bass)
+g bass g3-bass G3 (bass)
+a bass a3-bass A3 (bass)
+b bass b3-bass B3 (bass)
+
+# C4
+c' treble c4-treble C4 (treble)
+d' treble d4-treble D4 (treble)
+e' treble e4-treble E4 (treble)
+f' treble f4-treble F4 (treble)
+g' treble g4-treble G4 (treble)
+a' treble a4-treble A4 (treble)
+b' treble b4-treble B4 (treble)
+
+c' bass c4-bass C4 (bass)
+d' bass d4-bass D4 (bass)
+e' bass e4-bass E4 (bass)
+f' bass f4-bass F4 (bass)
+g' bass g4-bass G4 (bass)
+a' bass a4-bass A4 (bass)
+b' bass b4-bass B4 (bass)
+
+# C5
+c'' bass c5-bass C5 (bass)
+
+c'' treble c5-treble C5 (treble)
+d'' treble d5-treble D5
+e'' treble e5-treble E5
+f'' treble f5-treble F5
+g'' treble g5-treble G5
+a'' treble a5-treble A5
+b'' treble b5-treble B5
+
+# C6
+c''' treble c6-treble C6
+d''' treble d6-treble D6
+e''' treble e6-treble E6
+f''' treble f6-treble F6
+g''' treble g6-treble G6
+a''' treble a6-treble A6
+b''' treble b6-treble B6
+
+# C7
+c'''' treble c7-treble C7
+#d'''' treble d7-treble D7
+#e'''' treble e7-treble E7
+#f'''' treble f7-treble F7
+#g'''' treble g7-treble G7
+#a'''' treble a7-treble A7
+#b'''' treble b7-treble B7
+
+# C8
+#c''''' treble c8-treble C8
