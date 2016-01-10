@@ -1,3 +1,5 @@
+all: cards pngs
+
 lily:
 	cat notes.txt | bin/strip-comments.sh | bin/make-lily.sh
 
@@ -10,4 +12,4 @@ pdfs: lily
 pngs: pdfs
 	bin/make-pngs.sh
 
-all: cards pngs
+.PHONY: all lily cards pdfs pngs
