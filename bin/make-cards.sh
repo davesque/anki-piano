@@ -2,8 +2,8 @@
 
 while read note clef name text context; do
   if [ -n "$context" ]; then
-    printf "%s %s; <img src=\"%s.png\">\n" "$text" "$context" "$name"
+    printf "<img src=\"%s.png\">; %s %s\n" "$name" "$text" "$context"
   else
-    printf "%s; <img src=\"%s.png\">\n" "$text" "$name"
+    printf "<img src=\"%s.png\">; %s\n" "$name" "$text"
   fi
 done <&0
