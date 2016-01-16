@@ -12,4 +12,7 @@ pdfs: lily
 pngs: pdfs
 	bin/make-pngs.sh
 
-.PHONY: all lily cards pdfs pngs
+clean:
+	rm -rf lily pdfs pngs cards.txt
+
+.PHONY: all lily cards pdfs pngs clean
