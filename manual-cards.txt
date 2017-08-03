@@ -1,0 +1,7 @@
+<img src="a.png">; A
+<img src="b.png">; B
+<img src="c.png">; C
+<img src="d.png">; D
+<img src="e.png">; E
+<img src="f.png">; F
+<img src="g.png">; G

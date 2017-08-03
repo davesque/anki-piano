@@ -2,9 +2,9 @@
 
 mkdir -p pdfs manual-pdfs
 
-#cd pdfs
-#lilypond ../lily/*.ly
-#cd ..
+cd pdfs
+lilypond ../lily/*.ly
+cd ..
 
 cd manual-pdfs
 lilypond ../manual-lily/*.ly
